@@ -4,4 +4,4 @@ For this assignment students were asked to refractor the code and make it more a
 
 https://acinom813.github.io/code-refractor/
 
-[](assets/images/Screen%20Shot%202020-12-06%20at%207.49.11%20PM.png)
+![](assets/images/Screen%20Shot%202020-12-06%20at%207.49.11%20PM.png)
